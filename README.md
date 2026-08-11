@@ -22,7 +22,7 @@ Transcriptomic dataset to classify oligodendroglioma and Astrocytoma. Gene expre
 
 # 🛠️ Tools & Libraries
 
-1. Nummpy
+1. Numpy
 2. Pandas
 3. Matplotlib
 4. Sci-kit learn
